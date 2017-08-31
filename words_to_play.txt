@@ -1,0 +1,11 @@
+redes
+livro
+bombeiro
+policial
+cavalo
+futebol
+cachorro
+cerveja
+vodka
+whisky
+
